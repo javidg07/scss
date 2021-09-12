@@ -1,0 +1,17 @@
+{
+  "name": "@jav.e/scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"node src/script/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1",
+    "normalize-scss": "^7.0.1"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,41 @@
+
+/*=============================================
+=             GLOBAL TEXT COLORS               =
+=============================================*/
+
+$body-text-color: var(--jav-body-text-color, $dark) !default;
+
+$body-bg-color: var(--jav-body-bg-color, $white) !default;
+
+
+/*=============================================
+=                 BUTTONS                    =
+=============================================*/
+
+
+$btn-primary-color: var(--jav-btn-primary-color,$white) !default;
+
+$btn-primary-bg: var(--jav-btn-primary-bg,$green) !default;
+ 
+$btn-primary-bg-hover: var(--jav-btn-primary-bg-hover,$green-light) !default;
+
+
+/*=============================================
+=                  FORMS                      =
+=============================================*/
+
+
+$form-color:var(--jav-form-color,$dark) !default;
+
+$form-bg:var(--jav-form-bg,$white) !default;
+
+$form-error-color:var(--jav-form-error-color,$red) !default;
+
+$form-error-border:var(--jav-form-error-border,$red) !default;
+
+$form-border-focus-color:var(--jav-form-border-focus-color,$green) !default;
+
+
+
+
+

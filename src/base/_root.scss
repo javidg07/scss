@@ -1,0 +1,31 @@
+:root {
+  --jav-body-text-color: #{$dark};
+  --jav-body-bg-color: #{$white};
+
+  --jav-btn-primary-color: #{$white};
+  --jav-btn-primary-bg: #{$green};
+  --jav-btn-primary-bg-hover: #{$green-light};
+
+  --jav-form-color: #{$dark};
+  --jav-form-bg: #{$white};
+  --jav-form-error-color: #{$red};
+  --jav-form-error-border: #{$red};
+  --jav-form-border-focus-color: #{$green};
+
+  --jav-body-font-size: #{$fs-sm};
+  --jav-body-font-weight: #{$fw-normal};
+
+  --jav-h1-font-size: #{$h-1};
+  --jav-h2-font-size: #{$h-2};
+  --jav-h3-font-size: #{$h-3};
+  --jav-h4-font-size: #{$h-4};
+  --jav-h5-font-size: #{$h-5};
+  --jav-h6-font-size: #{$h-6};
+
+  --jav-h1-text-weight: #{$fw-black};
+  --jav-h2-text-weight: #{$fw-semibold};
+  --jav-h3-text-weight: #{$fw-bold};
+  --jav-h4-text-weight: #{$fw-medium};
+  --jav-h5-text-weight: #{$fw-normal};
+  --jav-h6-text-weight: #{$fw-light};
+}
